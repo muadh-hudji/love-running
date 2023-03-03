@@ -289,6 +289,22 @@ footer{
     hr{
         display: none;
     }
+    /* .left-about-heading h2, .right-about-heading h2{
+        text-align: center;
+        margin: 2%;
+        
+    }
+    .left-about-heading p, .right-about-heading p{
+        text-align: center;
+        padding-bottom: 30px;
+        
+    }
+    .left-about-heading, .right-about-heading {
+        margin: 0 auto;
+        float: none;
+        
+    } */
+
 }
 
 /* for medium screen sizes from 950px wide and down */
